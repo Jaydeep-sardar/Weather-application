@@ -12,7 +12,7 @@
 
 | Home Screen | Weather Details |
 |:-----------:|:----------------:|
-| ![Home Screen](img/demo.png) | ![Weather Details](img/demo-weather.png) |
+| ![Home Screen](img/demo.png) | ![Weather Details](img/demoWeather.png) |
 
 
 ## 🚀 About The Project
