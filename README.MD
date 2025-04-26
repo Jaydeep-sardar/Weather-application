@@ -1,4 +1,3 @@
-
 # 🌦️ Weather App - Stay Updated Instantly! 🌍
 
 [![Made with HTML](https://img.shields.io/badge/Made%20with-HTML5-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
