@@ -79,9 +79,6 @@ weather-app/
 
 ---
 
-
-
-
 ### 🌟 Don't forget to ⭐ Star the repo if you like it! 🌟
 
 ---
