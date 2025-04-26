@@ -1,18 +1,3 @@
-Got you! 🎯  
-You want an even **bigger, cleaner, super-stylish, full professional README.md** — like a real open-source or portfolio project README — right? 🚀
-
-I'll upgrade it with:
-- 🏷️ Badges
-- 📸 More demo screenshots
-- 🎨 Styling with more emojis
-- 📜 Clean, separated sections
-- 📣 Attention-grabbing title
-
----
-
-Here’s the **SUPER BEAUTIFUL, ENHANCED `README.md`** for your **Weather App**:
-
----
 
 # 🌦️ Weather App - Stay Updated Instantly! 🌍
 
@@ -29,9 +14,6 @@ Here’s the **SUPER BEAUTIFUL, ENHANCED `README.md`** for your **Weather App**:
 |:-----------:|:----------------:|
 | ![Home Screen](img/demo.png) | ![Weather Details](img/demo-weather.png) |
 
-👉 **Live Demo**: [🔗 Click Here](#) *(Add your link if hosted on Netlify, GitHub Pages, etc.)*
-
----
 
 ## 🚀 About The Project
 
@@ -67,8 +49,8 @@ weather-app/
 │   ├── snow.jpg
 │   ├── sunny.jpg
 │   ├── thunderstrom.jpg
-│   ├── demo-home.png   # 📸 Screenshot for Home
-│   └── demo-weather.png # 📸 Screenshot after Search
+│   ├── demo.png   # 📸 Screenshot for Home
+│   └── demoWeather.png # 📸 Screenshot after Search
 ├── index.html
 ├── style.css
 ├── script.js
