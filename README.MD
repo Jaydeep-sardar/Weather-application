@@ -80,12 +80,6 @@ weather-app/
 ---
 
 
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute it!  
-See the `LICENSE` file for more details.
-
-
 
 
 ### 🌟 Don't forget to ⭐ Star the repo if you like it! 🌟
