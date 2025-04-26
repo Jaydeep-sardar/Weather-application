@@ -86,19 +86,9 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 See the `LICENSE` file for more details.
 
 
-## 📢 Special Thanks
 
-- [OpenWeatherMap](https://openweathermap.org/)
-- [SweetAlert](https://sweetalert2.github.io/)
-- [FontAwesome](https://fontawesome.com/)
-
----
 
 ### 🌟 Don't forget to ⭐ Star the repo if you like it! 🌟
 
 ---
 
-
-# 🎉 Done!
-
----
